@@ -1,0 +1,44 @@
+body{
+
+    background-color:firebrick;
+    
+}
+.recipeOfTheDay{
+    padding-block-start: 0%;
+    margin: 0%;
+    border-color:gray;
+    float: right;
+    
+}
+.recipes{
+    padding-block-start: 0%;
+    margin: 0%;
+    border-color:gray;
+    float:left;
+ 
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+    font-weight: 250%;
+    color:black;
+  }
+
+  p{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 100;
+    color:blanchedalmond;
+  }
+
+  .ingredient{
+    text-align: left;
+    font-size: 2em;
+    font-weight: 10;
+    color:gold;
+  }
+
+  li{
+    text-align: center;
+    color: goldenrod;
+  }
